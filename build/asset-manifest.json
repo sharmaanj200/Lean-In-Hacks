@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de9fb30c.css",
+    "main.js": "/static/js/main.cc112ea8.js",
+    "static/media/potato_egg_salad.webp": "/static/media/potato_egg_salad.8eda436ae3116842a3e5.webp",
+    "static/media/protein_balls.webp": "/static/media/protein_balls.c2ee84ac98d711a7d837.webp",
+    "static/media/salad.jpeg": "/static/media/salad.b59805b44162db60daf3.jpeg",
+    "static/media/beetroot_idli.webp": "/static/media/beetroot_idli.c06e6220a1a350aeac1c.webp",
+    "static/media/samak_ki_khichdi.webp": "/static/media/samak_ki_khichdi.fcdd56ecb742c12a46e1.webp",
+    "static/media/chilli_garlic_omelette.webp": "/static/media/chilli_garlic_omelette.b670c19891871da72bf6.webp",
+    "static/media/avocado_toast.webp": "/static/media/avocado_toast.405839a0c7be18d0fe7a.webp",
+    "static/media/noodle_soup.webp": "/static/media/noodle_soup.a775c98b179651d49417.webp",
+    "static/media/stuffed_mushrooms.webp": "/static/media/stuffed_mushrooms.2ac6b973f0091a963ffa.webp",
+    "static/media/barley_soup.webp": "/static/media/barley_soup.12a0c626a2ac0e690362.webp",
+    "static/media/paneer_pancake.webp": "/static/media/paneer_pancake.012359eb0fc2d13d6a1d.webp",
+    "index.html": "/index.html",
+    "main.de9fb30c.css.map": "/static/css/main.de9fb30c.css.map",
+    "main.cc112ea8.js.map": "/static/js/main.cc112ea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9fb30c.css",
+    "static/js/main.cc112ea8.js"
+  ]
+}
